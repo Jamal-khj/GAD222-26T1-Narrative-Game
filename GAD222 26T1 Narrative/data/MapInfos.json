@@ -1,11 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Starting area","order":1,"parentId":0,"scrollX":1830,"scrollY":757.1999999999999},
-{"id":2,"expanded":true,"name":"Mountain Range","order":2,"parentId":0,"scrollX":1166.6666666666667,"scrollY":744,"quick":false},
-{"id":3,"expanded":false,"name":"Mountain Range 1","order":3,"parentId":2,"scrollX":1166.6666666666667,"scrollY":744,"quick":false},
-{"id":4,"expanded":true,"name":"Mountain Range 2","order":4,"parentId":2,"scrollX":1201.3333333333333,"scrollY":744,"quick":false},
-{"id":5,"expanded":false,"name":"Mountain Range Inner Cave 1-1","order":5,"parentId":4,"scrollX":1166.6666666666667,"scrollY":733.3333333333334,"quick":false},
-{"id":6,"expanded":false,"name":"Mountain Range Inner Cave 1-2","order":6,"parentId":4,"scrollX":1166.6666666666667,"scrollY":733.3333333333334,"quick":false},
-{"id":7,"expanded":false,"name":"Mountain Range Inner Cave 2","order":7,"parentId":4,"scrollX":1166.6666666666667,"scrollY":744,"quick":false},
-{"id":8,"expanded":false,"name":"School Gymnasium","order":8,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+{"id":1,"expanded":true,"name":"Starting area","order":2,"parentId":0,"scrollX":1500,"scrollY":942.8571428571428},
+{"id":2,"expanded":true,"name":"Mountain Range","order":4,"parentId":9,"scrollX":816,"scrollY":848,"quick":false},
+{"id":3,"expanded":false,"name":"Mountain Range 1","order":5,"parentId":2,"scrollX":816,"scrollY":624,"quick":false},
+{"id":4,"expanded":true,"name":"Mountain Range 2","order":6,"parentId":2,"scrollX":1568,"scrollY":624,"quick":false},
+{"id":5,"expanded":false,"name":"Mountain Range Inner Cave 1-1","order":7,"parentId":4,"scrollX":816,"scrollY":640,"quick":false},
+{"id":6,"expanded":false,"name":"Mountain Range Inner Cave 1-2","order":8,"parentId":4,"scrollX":816,"scrollY":734,"quick":false},
+{"id":7,"expanded":false,"name":"Mountain Range Inner Cave 2","order":9,"parentId":4,"scrollX":832,"scrollY":624,"quick":false},
+{"id":8,"expanded":false,"name":"School Gymnasium","order":1,"parentId":0,"scrollX":583.3333333333334,"scrollY":600,"quick":false},
+{"id":9,"expanded":true,"name":"World Map","order":3,"parentId":0,"scrollX":1750,"scrollY":1116,"quick":false},
+{"id":10,"expanded":false,"name":"Sample","order":10,"parentId":0,"scrollX":583.3333333333334,"scrollY":366.6666666666667,"quick":false}
 ]
